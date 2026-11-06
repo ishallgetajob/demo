@@ -1,3 +1,3 @@
 # demo
-this is just a test for my github repo.
+This is a demonstration of my repository.
 Author - skitbagel
